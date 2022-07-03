@@ -1,6 +1,7 @@
 ### Hi there 👋 My name is Armando.
-- 🌱 I'm currently learning Python Core, intending to learn data science. 
-- Looking for a job as a Python Developer, wiling to learn any module related to Python, if needed. 
+- 🌱 I'm currently learning Python Core
+- I speak Spanish (native) and English (C2 Proficient 73/100)
+- Looking for a job as a Python Developer, willing to learn anything you need.  
 - 💬 Ask me about anything :D I love questions. 
 
 <!--
