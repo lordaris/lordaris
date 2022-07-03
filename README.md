@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 My name is Armando.
+- 🌱 I'm currently learning Python Core, intending to learn data science. 
+- Looking for a job as a Python Developer, wiling to learn any module related to Python, if needed. 
+- 💬 Ask me about anything :D I love questions. 
 
 <!--
 **lordaris/lordaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
