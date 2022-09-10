@@ -1,7 +1,9 @@
 ### Hi there 👋 My name is Armando.
+- I am an environmental technology engineering student.
+- Very passionate about programming (Python) and data analysis. 
 - I speak Spanish (native) and English (C2 Proficient 73/100)
-- Looking for a job as a Python Developer, willing to learn any framework you need.  
-- 💬 Ask me about anything :D I love questions. 
+
+
 
 <!--
 **lordaris/lordaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
