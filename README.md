@@ -1,8 +1,6 @@
-### Hi there 👋 My name is Armando.
-- I am an environmental technology engineering student.
-- Very passionate about programming. Right now I'm very into full stack development with Next.js or the MERN stack 
-- I speak Spanish (native) and English (C2 Proficient 73/100)
-
+# Hi there! My name is Armando.
+- I am a passionate web developer based in Mexico
+- 
 
 
 <!--
