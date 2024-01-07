@@ -1,6 +1,5 @@
 # Hi there! My name is Armando.
 - I am a passionate web developer based in Mexico
-- 
 
 
 <!--
