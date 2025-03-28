@@ -1,5 +1,5 @@
 # Hi there! My name is Armando.
-- I am a passionate web developer based in Mexico
+- I'm a backend developer, currently looking for a job. 
 
 
 <!--
