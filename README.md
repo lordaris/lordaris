@@ -1,5 +1,4 @@
-# Hi there! My name is Armando.
-- I'm a backend developer, currently looking for a job. 
+# 
 
 
 <!--
